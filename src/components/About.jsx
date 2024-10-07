@@ -6,7 +6,7 @@ const About = () => {
       <div
         data-scroll
         data-scroll-speed="-0.1"
-        className="bg-lime-300 text-black py-10 sm:py-20"
+        className="bg-blue-900 text-black py-10 sm:py-20"
       >
         <h1 className="text-2xl sm:text-3xl md:text-[3vw] px-4 sm:px-10 leading-tight sm:leading-none w-full sm:w-[90vw] md:w-[80vw] tracking-tight sm:tracking-tighter">
           ouchi is a creative agency that helps startups and companies to create
